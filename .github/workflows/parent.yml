@@ -10,4 +10,4 @@ jobs:
   trigger-child:
     uses: ./.github/workflows/child.yml
     with:
-      name: Thatchayaini
+      name: Thatchayaini 
